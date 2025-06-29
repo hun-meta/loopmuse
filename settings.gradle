@@ -1,0 +1,18 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal() // Gradle 플러그인을 위한 기본 리포지토리
+        google()            // Google 관련 라이브러리 및 Android 플러그인
+        mavenCentral()      // Maven Central 리포지토리
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "LoopMuse"
+include ':app'

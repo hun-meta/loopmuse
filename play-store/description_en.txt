@@ -1,0 +1,25 @@
+
+---
+
+📝 play-store/description_en.txt
+
+📁 위치: LoopMuse/play-store/description_en.txt
+
+`txt
+LoopMuse – An Offline AI Music Player That Understands You 🎵
+
+LoopMuse reads your mood and plays the right music, just for you.  
+Skip no more—LoopMuse remembers your vibe and curates the sound.
+
+▶️ Key Features
+- Smart shuffle that avoids recently played tracks
+- AI-generated mood-based playlist suggestions
+- Folder-based offline playback
+- Play history reset and custom sorting
+
+✔️ No ads. No login. Just clean design and clear sound.
+
+Feel the music that feels you – only with LoopMuse 🎧
+`
+
+---
